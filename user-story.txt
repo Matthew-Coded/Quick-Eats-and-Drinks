@@ -1,0 +1,18 @@
+Quick Snacks/Drinks Review Website
+
+A Website showing foods and drinks you can get on the go/or just a quick little snack whether at a gas station or fast food Restaurants
+
+User Story
+
+- Name of Resturant/Home Button
+- Search Bar
+- Navbar with
+    - Menu
+    - Sign-in/Logout
+    - Recommend
+- Home Page
+    - Cards of foods/drinks that have good ratings
+
+
+API
+https://thereportoftheweekapi.com/docs#/
