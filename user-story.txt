@@ -50,3 +50,9 @@ User lands on homepage showing a variety of anime shows with ratings genres and 
     - anime cards
     - remove button
 
+CRUD
+
+- Create a Watch List
+- Read the Watch List
+- Update the Watch List
+- Delete the Watch List
