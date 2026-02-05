@@ -1,19 +1,52 @@
-Quick Snacks/Drinks Review Website
-Quick Eats and Drinks!
-
-A Website showing foods and drinks you can get on the go/or just a quick little snack whether at a gas station or fast food Restaurants
-
 User Story
 
-- Name of Resturant/Home Button
-- Search Bar
-- Navbar with
-    - Menu
-    - Sign-in/Logout
-    - Recommend
-- Home Page
-    - Cards of foods/drinks that have good ratings
+User lands on homepage showing a variety of anime shows with ratings genres and favorites
+
+- Name of Anime Website
+
+- Home Button
+
+- Navbar
+    - Search
+    - Sign-in/Logout/Register
+
+- Anime Card
+    - Picture
+    - Rating
+    - Genre
+    - Watch List
+    - Click on picture takes user to the detail of the show
+
+- Watch List
+    - Shows user's list of show they want to watch
+    - Can remove from list
 
 
-API
-https://thereportoftheweekapi.com/docs#/
+- Pages
+    - register/login
+    - account management
+
+
+- Home Page: Need to get anime data (Make an API call here)
+    - Anime list (show anime shows): Need the anime data 
+    - Anime card (show brief info of single item): Need individual product data
+    - Add to Watch List button: Need product id
+
+- Search Anime Result: API CALL search product
+    - filtering genres
+    - sort by
+    - Search bar to search anime
+    - anime list: Needs the searched products data
+    - anime card (show brief description of show): Need individual product data
+    - Add to Watch List button: Need product individual
+
+- Anime Datail Page
+    - Display Anime information
+    - anime details (including genre, rating, etc)
+    - Add to Watch List button: Need product id
+
+- View Watch List
+    - list of anime in watch list
+    - anime cards
+    - remove button
+
